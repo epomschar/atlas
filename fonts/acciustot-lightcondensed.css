@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'AccL';
+    src: url('acciustot-lightcondensed.eot');
+    src: url('acciustot-lightcondensed.eot') format('embedded-opentype'),
+         url('acciustot-lightcondensed.woff') format('woff'),
+         url('acciustot-lightcondensed.ttf') format('truetype'),
+         url('acciustot-lightcondensed.svg#AcciusTOTLightCondensed') format('svg');
+}
